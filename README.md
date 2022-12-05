@@ -36,4 +36,4 @@ That's it. There are lots of other helper methods for evaluation of visualizatio
 
 If you found this useful, please cite the ICML paper (Bibtex to be included when ICML is officially published).
 
-And feel free to reach out with questions to mmycal@mit.edu
+And feel free to reach out with questions to mycal@mit.edu
